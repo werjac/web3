@@ -4,3 +4,5 @@ for readme file
 this is the guide for contributors
 
 do xyz
+
+add something
